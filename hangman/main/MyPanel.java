@@ -3,9 +3,7 @@ import java.util.concurrent.TimeUnit;
 import java.awt.Graphics; 
 import javax.swing.JPanel
 
-/**
- * Write a description of class MainActivity here.
- * 
+/** 
  * @author  Biko Pougala
  * @version 1.0
  * @date    29/12/2017
